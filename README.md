@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **shivanshchaturvedi5@gmail.com**
 
